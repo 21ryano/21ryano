@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **21ryano/21ryano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Ryan Oesterle! 👋
+# Hello, I'm Ryan Oesterle! 👋
 
 I'm a student at the University of Notre Dame studying Economics.
 
