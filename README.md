@@ -23,3 +23,7 @@ I'm a student at the University of Notre Dame studying Economics.
 
 ## Interests
 - [Add a few of your interests or hobbies]
+
+## Most Recent Projects
+- [My Data Science Portfolio](https://github.com/21ryano/Oesterle-Data-Science-Portfolio)
+
