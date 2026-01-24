@@ -19,11 +19,11 @@ I'm a student at the University of Notre Dame studying Economics.
 
 ## About Me
 - 🎓 Currently taking Introduction to Data Science
-      - 🌱 Learning Python, pandas, and data visualization
+  - 🌱 Learning Python, pandas, and data visualization
 - 🌍Previously Studied abroad in Oman
 - 📚 Pursuing Law School in the future
 - ⚽ I enjoy running and competing in team sports
-- 📫 How to reach me: roester2@nd.edu
+- 📫 You can reach me at: roester2@nd.edu
 
 
 ## 🛠️ Technical Skills
