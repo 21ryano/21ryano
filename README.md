@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Ryan Oesterle! 👋
 
-I'm a student at the University of Notre Dame studying [your major].
+I'm a student at the University of Notre Dame studying Economics.
 
 ## About Me
 - 🎓 Currently taking Introduction to Data Science
 - 🌱 Learning Python, pandas, and data visualization
-- 📫 How to reach me: [your email]
+- 📫 How to reach me: roester2@nd.edu
 
 ## Interests
 - [Add a few of your interests or hobbies]
