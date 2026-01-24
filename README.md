@@ -16,13 +16,27 @@ Here are some ideas to get you started:
 
 I'm a student at the University of Notre Dame studying Economics.
 
+
 ## About Me
 - 🎓 Currently taking Introduction to Data Science
-- 🌱 Learning Python, pandas, and data visualization
+      - 🌱 Learning Python, pandas, and data visualization
+- 🌍Previously Studied abroad in Oman
+- 📚 Pursuing Law School in the future
+- ⚽ I enjoy running and competing in team sports
 - 📫 How to reach me: roester2@nd.edu
 
-## Interests
-- [Add a few of your interests or hobbies]
+
+## 🛠️ Technical Skills
+**Languages & Tools**
+- Python
+- Stata
+- GitHub
+
+**Data & Analytics**
+- Econometrics
+- Statistical Analysis
+- Data Visualization
+
 
 ## Most Recent Projects
 - [My Data Science Portfolio](https://github.com/21ryano/Oesterle-Data-Science-Portfolio)
