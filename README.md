@@ -39,6 +39,12 @@ I'm a student at the University of Notre Dame studying Economics.
 - Data Visualization
 
 
+## 🎯 Goals
+- Develop Python profiency 
+- Improve visualization techniques  
+- Create real-world projects
+
+
 ## Most Recent Projects
 - [My Data Science Portfolio](https://github.com/21ryano/Oesterle-Data-Science-Portfolio)
 
