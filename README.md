@@ -16,7 +16,8 @@ I'm a student at the **University of Notre Dame** studying Economics.
 
 **Most Recent Projects**: [My Data Science Portfolio](https://github.com/21ryano/Oesterle-Data-Science-Portfolio)
 - Includes projects in data cleaning, visualization, and machine learning, with a focus on building interactive applications using Streamlit.
-- Main focus: Building interactive machine learning applications, creating useful data visualizations, and applying data science techniques to real-world datasets  
+- Main focus: Building interactive machine learning applications, creating useful data visualizations, and applying data science techniques to real-world datasets
+- Favorite Project: [A Streamlit NBA Statistics page!]
 
 ### 🎯 Goals
 - Develop Python profiency 
