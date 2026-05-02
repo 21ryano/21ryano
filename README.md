@@ -14,10 +14,10 @@ I'm a student at the **University of Notre Dame** studying Economics.
 - Stata<img align="left" alt="STATA" width="26px" src="StataLogo.jpg" />
 - GitHub<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-**Most Recent Projects**: [My Data Science Portfolio](https://github.com/21ryano/Oesterle-Data-Science-Portfolio)
+**Most Recent Projects**: [**My Data Science Portfolio**](https://github.com/21ryano/Oesterle-Data-Science-Portfolio)
 - Includes projects in data cleaning, visualization, and machine learning, with a focus on building interactive applications using Streamlit.
 - Main focus: Building interactive machine learning applications, creating useful data visualizations, and applying data science techniques to real-world datasets
-- 🏀 *Favorite Project*: [Streamlit NBA Statistics Database!](https://github.com/21ryano/Oesterle-Data-Science-Portfolio/tree/main/EDA/Basic_Streamlit_App)
+- *Favorite Project*: [Streamlit NBA Statistics Database!](https://github.com/21ryano/Oesterle-Data-Science-Portfolio/tree/main/EDA/Basic_Streamlit_App)
 
 ### 🎯 Goals
 - Develop Python profiency 
