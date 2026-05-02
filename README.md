@@ -15,6 +15,7 @@ I'm a student at the **University of Notre Dame** studying Economics.
 - GitHub<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 **Most Recent Projects**: [My Data Science Portfolio](https://github.com/21ryano/Oesterle-Data-Science-Portfolio)
+*Includes projects in data cleaning, visualization, and machine learning, with a focus on building interactive applications using Streamlit.*
 
 ### 🎯 Goals
 - Develop Python profiency 
