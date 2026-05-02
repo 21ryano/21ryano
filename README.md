@@ -14,8 +14,7 @@ I'm a student at the **University of Notre Dame** studying Economics.
 - Stata<img align="left" alt="STATA" width="26px" src="StataLogo.jpg" />
 - GitHub<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-**Most Recent Projects**
-- [My Data Science Portfolio](https://github.com/21ryano/Oesterle-Data-Science-Portfolio)
+**Most Recent Projects**: [My Data Science Portfolio](https://github.com/21ryano/Oesterle-Data-Science-Portfolio)
 
 ### 🎯 Goals
 - Develop Python profiency 
