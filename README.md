@@ -23,4 +23,4 @@ I'm a student at the **University of Notre Dame** studying Economics.
 - Create real-world projects
 
 
- 📫 You can reach me at: **roester2@nd.edu**
+ ## You can reach me at: roester2@nd.edu
