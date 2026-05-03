@@ -4,7 +4,7 @@ I'm a student at the **University of Notre Dame** studying Economics.
 
 ### About Me
 - 🎓 Currently taking Introduction to Data Science (Learning Python, pandas, and data visualization)
-- 🌍Previously Studied abroad in Oman
+- 🌍 Previously Studied abroad in Oman
 - 📚 Pursuing Law School in the future
 - ⚽ I enjoy running and competing in team sports
 
